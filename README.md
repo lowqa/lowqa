@@ -8,8 +8,8 @@ If you're reading this, it means you want to know about my skills. Let's start
 # How to reach me
 
 - 📬 themaater09@gmail.com
-- 💻 [Telegram](t.me/llqua)
-- 📱 [VK](vk.com/ldqafu)
+- 💻 [Telegram](https://t.me/llqua)
+- 📱 [VK](https://vk.com/ldqafu)
 <!---
 lowqa/lowqa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
