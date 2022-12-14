@@ -2,7 +2,7 @@
 If you're reading this, it means you want to know about my skills. Let's start
 
 - 👀 I’m interested in fullstack development
-- 🎓 I’m currently learning Python, I have a little experience with Node.js and React. Of course, HTML and CSS it's the base
+- 🎓 SFEDU STUDENT!!! I’m currently learning Python, I have a little experience with Node.js and React. Of course, HTML and CSS it's the base
 - :shipit: I want to work with small companies or startups as a junior developer
 
 # How to reach me
